@@ -1,0 +1,22 @@
+# String concatination
+
+#example code 1
+first_name = "Vinod"
+last_name = "Kabadi"
+
+full_name = first_name + " " + last_name
+print(full_name)
+
+#example code 2
+full_name = "Vinod" + " Kabadi"
+print (full_name)
+
+#example code 3
+full_name = "Vinod " + "Kabadi"
+print (full_name)
+
+#example code 4
+str_name = "123"
+print(str_name,"1")
+#or
+print(str_name + "1")
